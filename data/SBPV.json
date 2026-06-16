@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-16T18:50:43.180820+00:00",
+  "updated_at": "2026-06-16T22:45:55.412394+00:00",
   "data_referencia": "2026-06-16",
   "airport_icao": "SBPV",
   "airport_name": "Porto Velho",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPV",
-    "sg_aerodromo_iata": "PVH",
-    "descricao": "GOVERNADOR JORGE TEIXEIRA DE OLIVEIRA - PORTO VELHO - RO - BRASIL"
+    "sg_aerodromo_icao": "SBMQ",
+    "sg_aerodromo_iata": "MCP",
+    "descricao": "ALBERTO ALCOLUMBRE - MACAPÁ - AP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
