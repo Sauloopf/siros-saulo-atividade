@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T11:12:09.186021+00:00",
+  "updated_at": "2026-07-29T13:39:51.187403+00:00",
   "data_referencia": "2026-07-29",
   "airport_icao": "SBGR",
   "airport_name": "Sao Paulo / Guarulhos",
@@ -5752,28 +5752,6 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBRF",
       "rota_nome": "Recife"
-    },
-    {
-      "callsign": "ITY678",
-      "numero_voo": "678",
-      "airline_icao": "ITY",
-      "airline": "ITY",
-      "equipamento_icao": "A339",
-      "equipamento": "Airbus A330-900neo",
-      "assentos": "335",
-      "etapa": "1",
-      "tipo_operacao": "Internacional",
-      "tipo_servico": "REGULAR DE PASSAGEIROS INTERNACIONAL",
-      "origem_icao": "LIRF",
-      "destino_icao": "SBGR",
-      "partida_iso": "2026-07-29T04:35:00-03:00",
-      "chegada_iso": "2026-07-29T16:55:00-03:00",
-      "partida_brt": "04:35",
-      "chegada_brt": "16:55",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "LIRF",
-      "rota_nome": "LIRF"
     },
     {
       "callsign": "ITY678",
