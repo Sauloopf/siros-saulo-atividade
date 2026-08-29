@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-28T20:27:17.647260+00:00",
+  "updated_at": "2026-08-29T02:55:56.967928+00:00",
   "data_referencia": "2026-08-28",
   "airport_icao": "SBKP",
   "airport_name": "Campinas / Viracopos",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSN",
-    "sg_aerodromo_iata": "STM",
-    "descricao": "MAESTRO WILSON FONSECA - SANTARÉM - PA - BRASIL"
+    "sg_aerodromo_icao": "SBKP",
+    "sg_aerodromo_iata": "VCP",
+    "descricao": "VIRACOPOS - CAMPINAS - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
