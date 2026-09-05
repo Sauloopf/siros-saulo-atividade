@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-09-05T16:58:43.999042+00:00",
+  "updated_at": "2026-09-05T22:26:08.177490+00:00",
   "data_referencia": "2026-09-05",
   "airport_icao": "SBSP",
   "airport_name": "Sao Paulo / Congonhas",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBSP",
-    "sg_aerodromo_iata": "CGH",
-    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
